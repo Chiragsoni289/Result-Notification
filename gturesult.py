@@ -31,7 +31,7 @@ while 1:
          media_url=['https://www.memestemplates.com/wp-content/uploads/2022/09/jethalal-looking-from-window.jpg'],
 	 body='GTU ka result aagaya hai BC !! baago' ,	
          from_='whatsapp:+14155238886' ,
-         to='whatsapp:+917069360290'
+         to='whatsapp:Your Number here'
        )
        print ("SMS Sent Thanks") 
        quit() 
